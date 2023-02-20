@@ -1,0 +1,2 @@
+# RandomSentencesGeneratorByYashov
+Random Sentence Generator
